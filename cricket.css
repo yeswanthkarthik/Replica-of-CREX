@@ -199,3 +199,31 @@ th {
 .bdy{
   display: flex;
 }
+.griv{
+  padding-top: 60px;
+}
+.frm{
+  padding-left: 110px;
+}
+input{
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px);
+  color: black;
+  background-color: #ddd;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+}
+select{
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px);
+  background-color: #ddd;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+}
+textarea{
+  width: 100%;
+  height: calc(10em + .75rem + 2px);
+  background-color: #ddd;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+}
