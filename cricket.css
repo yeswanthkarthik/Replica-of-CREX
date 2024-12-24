@@ -227,3 +227,13 @@ textarea{
   border: 1px solid black;
   border-radius: 0.25rem;
 }
+.prp{
+  padding-top: 60px;
+}
+.prp h3{
+  text-align: center;
+}
+.pbdy{
+  padding-left: 110px;
+  font-size: smaller;
+}
